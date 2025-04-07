@@ -1,4 +1,4 @@
-# Projectphase1
+# Personal Portfolio
 ## Description
 This is a personal portfolio website built using only HTML and CSS. It showcases my profile, skills, projects, and includes a contact section for visitors to reach out. The website features a responsive design and a navigation bar for smooth transitions between different sections.
 
